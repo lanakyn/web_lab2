@@ -85,7 +85,7 @@
 
 ![image](https://github.com/user-attachments/assets/817a69e7-af1f-426c-9f5a-892a2cef42bb)
 
-**Экран со списками фильмов пользователя:**
+**Экран со всеми списками фильмов пользователя:**
 
 ![image](https://github.com/user-attachments/assets/213de02b-9752-4f3d-9e61-492b940ce185)
 
@@ -93,5 +93,8 @@
 
 ![image](https://github.com/user-attachments/assets/05d644eb-f138-4214-98bc-f5b0ade5ea42)
 
+**Экран списка фильмов:**
+
+![image](https://github.com/user-attachments/assets/8f8c9a40-fc50-4921-8d59-b34102b3015e)
 
 
